@@ -1,0 +1,25 @@
+body {
+	font-family: 'Noto Sans', sans-serif;
+	margin: 20px;
+	background: #27AE60;
+}
+
+.card-wrapper {
+	background-color: #5DADE2;
+	color: #fff;
+	border-bottom: 8px solid #2E86C1;
+	width: 500px;
+	margin: 0 auto;
+	padding: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	border-radius: 5%;
+	font-size: 20px;
+}
+
+.profile-picture {
+	width: 200px;
+	border-radius: 5%;
+}
+
